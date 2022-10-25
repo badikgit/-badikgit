@@ -1,4 +1,4 @@
-| <h1>Stanislau Yarotski</h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFF&lines=      Junior+Frontend+Developer)](https://git.io/typing-svg)<br><br><br><h2>Contacts</h2><blockquote align="left"><ul><li>  <a href="mailto:stas_yar@tut.by"><img src="./image/icon/icon-email-header.svg"  height="12">truecki#6712</a></li><li>  <a href="https://discordapp.com/users/399246428871983114/"><img src="./image/icon/icon-discord-header.svg" height="12">stas_yar@tut.by</a></li><li>  <a href=""><img src="./image/icon/icon-linkedin-header.svg" height="12">stas_yar@tut.by</a></li></ul></blockquote> | <img src="image/user-giraffe.png">|
+| <h1>Stanislau Yarotski</h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFF&lines=      Junior+Frontend+Developer)](https://git.io/typing-svg)<br><br><br><h2>Contacts</h2><blockquote align="left"><ul><li>  <a href="mailto:stas_yar@tut.by"><img src="./image/icon/icon-email-header.svg"  height="12"> stas_yar@tut.by</a></li><li>  <a href="https://discordapp.com/users/399246428871983114/"><img src="./image/icon/icon-discord-header.svg" height="12"> truecki#6712</a></li><li>  <a href=""><img src="./image/icon/icon-linkedin-header.svg" height="12"> Stanislau Yarotski</a></li></ul></blockquote> | <img src="image/user-giraffe.png">|
 | ------ | ------ |
 
 <h2>About myself</h2>
@@ -40,21 +40,27 @@
 
 <h2 title="My projects">My projects</h2>
 
-| <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank">                      Procrastinate.                       </a> | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank"><img src="./image/procrastinate.jpg"></a> |
+| <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank">                      Procrastinate.                       </a><p>Yandex Practicum project</p> | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank"><img src="./image/procrastinate.jpg"></a> |
 | ------ | ------ |
 
-| <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank"><img src="./image/portfolio.jpg"></a> | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank">                       Portfolio                       </a> |
+| <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank"><img src="./image/portfolio.jpg"></a> | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank">                       Portfolio                       </a><p>RSSchool JS/FE Stage 0 project</p> |
 | ------ | ------ |
 
-| <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank">                      Movie app                       </a> | <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank"><img src="./image/movie-app.jpg"></a> |
+| <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank">                      Movie app                       </a><p>RSSchool JS/FE Stage 0 project</p> | <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank"><img src="./image/movie-app.jpg"></a> |
 | ------ | ------ |
 
-| <a href="https://rolling-scopes-school.github.io/badikgit-JSFE2022Q1/shelter/pages/main/" target="_blank"><img src="./image/shelter.jpg"></a> | <a href="https://rolling-scopes-school.github.io/badikgit-JSFE2022Q1/shelter/pages/main/" target="_blank">                    Shelter                      </a> |
+| <a href="https://rolling-scopes-school.github.io/badikgit-JSFE2022Q1/shelter/pages/main/" target="_blank"><img src="./image/shelter.jpg"></a> | <a href="https://rolling-scopes-school.github.io/badikgit-JSFE2022Q1/shelter/pages/main/" target="_blank">                    Shelter                      </a><p>RSSchool JS/FE Stage 1 project</p> |
 | ------ | ------ |
 
-| <a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/">                     CSS Mem Slider                       </a> | <a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/" target="_blank"><img src="./image/mem.jpg"></a> |
+| <a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/">                     CSS Mem Slider                       </a><p>RSSchool JS/FE Stage 1 project</p> | <a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/" target="_blank"><img src="./image/mem.jpg"></a> |
 | ------ | ------ |
 
-| <a href="https://badikgit.github.io/virtual-keyboard/" target="_blank"><img src="./image/keyboard.jpg"></a> | <a href="https://badikgit.github.io/virtual-keyboard/" target="_blank">                    Virtual Keyboard                    </a> |
+| <a href="https://badikgit.github.io/virtual-keyboard/" target="_blank"><img src="./image/keyboard.jpg"></a> | <a href="https://badikgit.github.io/virtual-keyboard/" target="_blank">                    Virtual Keyboard                    </a><p>RSSchool JS/FE Stage 1 project</p> |
+| ------ | ------ |
+
+| <a href="https://badikgit-migration-newip-to-ts.netlify.app/">                    News Portal                      </a><p>RSSchool JS/FE Stage 2 project</p> | <a href="https://badikgit-migration-newip-to-ts.netlify.app/" target="_blank"><img src="./image/news-portal.png"></a> |
+| ------ | ------ |
+
+| <a href="https://badikgit-online-store.netlify.app/" target="_blank"><img src="./image/online-store.png"></a> | <a href="https://badikgit-online-store.netlify.app/" target="_blank">                    Online Store                      </a><p>RSSchool JS/FE Stage 2 project</p> |
 | ------ | ------ |
 
