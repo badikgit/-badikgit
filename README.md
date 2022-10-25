@@ -46,21 +46,21 @@
 | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank"><img src="./image/portfolio.jpg"></a> | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank">                       Portfolio                       </a><p>RSSchool JS/FE Stage 0 project</p> |
 | ------ | ------ |
 
-| <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank">                      Movie app                       </a><p>RSSchool JS/FE Stage 0 project</p> | <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank"><img src="./image/movie-app.jpg"></a> |
+|<a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank">                      Movie app                       </a><p>RSSchool JS/FE Stage 0 project</p>|<a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank"><img src="./image/movie-app.jpg"></a>|
 | ------ | ------ |
 
 | <a href="https://rolling-scopes-school.github.io/badikgit-JSFE2022Q1/shelter/pages/main/" target="_blank"><img src="./image/shelter.jpg"></a> | <a href="https://rolling-scopes-school.github.io/badikgit-JSFE2022Q1/shelter/pages/main/" target="_blank">                    Shelter                      </a><p>RSSchool JS/FE Stage 1 project</p> |
 | ------ | ------ |
 
-| <a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/">                     CSS Mem Slider                       </a><p>RSSchool JS/FE Stage 1 project</p> | <a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/" target="_blank"><img src="./image/mem.jpg"></a> |
+|<a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/">                CSS Mem Slider                </a><p>RSSchool JS/FE Stage 1 project</p>|<a href="https://badikgit.github.io/cssMemSlider/cssMemSlider/" target="_blank"><img src="./image/mem.jpg"></a>|
 | ------ | ------ |
 
 | <a href="https://badikgit.github.io/virtual-keyboard/" target="_blank"><img src="./image/keyboard.jpg"></a> | <a href="https://badikgit.github.io/virtual-keyboard/" target="_blank">                    Virtual Keyboard                    </a><p>RSSchool JS/FE Stage 1 project</p> |
 | ------ | ------ |
 
-| <a href="https://badikgit-migration-newip-to-ts.netlify.app/">                    News Portal                      </a><p>RSSchool JS/FE Stage 2 project</p> | <a href="https://badikgit-migration-newip-to-ts.netlify.app/" target="_blank"><img src="./image/news-portal.png"></a> |
+|<a href="https://badikgit-migration-newip-to-ts.netlify.app/">                   News Portal                  </a><p>RSSchool JS/FE Stage 2 project</p>|<a href="https://badikgit-migration-newip-to-ts.netlify.app/" target="_blank"><img src="./image/news-portal.jpg"></a>|
 | ------ | ------ |
 
-| <a href="https://badikgit-online-store.netlify.app/" target="_blank"><img src="./image/online-store.png"></a> | <a href="https://badikgit-online-store.netlify.app/" target="_blank">                    Online Store                      </a><p>RSSchool JS/FE Stage 2 project</p> |
+| <a href="https://badikgit-online-store.netlify.app/" target="_blank"><img src="./image/online-store.jpg"></a> | <a href="https://badikgit-online-store.netlify.app/" target="_blank">                    Online Store                      </a><p>RSSchool JS/FE Stage 2 project</p> |
 | ------ | ------ |
 
