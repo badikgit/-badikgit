@@ -43,7 +43,7 @@
 | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank">                      Procrastinate.                       </a><p>Yandex Practicum project</p> | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank"><img src="./image/procrastinate.jpg"></a> |
 | ------ | ------ |
 
-| <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank"><img src="./image/portfolio.jpg"></a> | <a href="https://badikgit.github.io/portfolio-test/source/project-procrastinate/" target="_blank">                       Portfolio                       </a><p>RSSchool JS/FE Stage 0 project</p> |
+| <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/portfolio/" target="_blank"><img src="./image/portfolio.jpg"></a> | <a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/portfolio/" target="_blank">                       Portfolio                       </a><p>RSSchool JS/FE Stage 0 project</p> |
 | ------ | ------ |
 
 |<a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank">                      Movie app                       </a><p>RSSchool JS/FE Stage 0 project</p>|<a href="https://rolling-scopes-school.github.io/badikgit-JSFEPRESCHOOL/movie-app/" target="_blank"><img src="./image/movie-app.jpg"></a>|
