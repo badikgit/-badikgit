@@ -95,6 +95,7 @@ a {
 
 .header-discord .header-icon,
 .header-linkedin .header-icon {
+    box-sizing: content-box;
     padding: 6px;
     height: 20px;
 }
@@ -339,7 +340,11 @@ pre code {
 }
 
 .project-link {
-    width: 100%;
+    width: 45%;
+}
+
+.project-link-image {
+    width: 55%;
 }
 
 .project-link span {
@@ -449,7 +454,8 @@ pre code {
 }
 
 .project-image {
-    width: 50%;
+    max-width: 250px;
+    width: 100%;
     margin: 0 auto;
     transition: 0.3s;
 }
@@ -599,6 +605,10 @@ pre code {
     .project-name {
         flex-wrap: wrap;
         row-gap: 1em;
+    }
+    .project-link,
+    .project-link-image {
+        width: 100%;
     }
     .project-image {
         width: 70%;
