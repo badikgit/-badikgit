@@ -25,9 +25,8 @@
          <li>RS School. Course «JavaScript/Front-end. Stage 0»</li>
          <li>RS School. Course «JavaScript/Front-end. Stage 1»</li>
          <li>RS School. Course «JavaScript/Front-end. Stage 2»</li>
-         <li>RS School. Course «NodeJS» (failed to complete, but I tried)</li>
-         <li>RS School. Course «React» (in progress)</li>
-         <li>RS School. Course «Angular» (in progress)</li>
+         <li>RS School. Course «React»</li>
+         <li>RS School. Course «NodeJS» (in progress)</li>
       </ul>
    </li>
 </ul>
