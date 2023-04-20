@@ -2,10 +2,10 @@
 | ------ | ------ |
 
 <h2>About myself</h2>
-<p>My name is Stanislau. I'm 31. And I'm a giraffe... so... If you need something that is high up, I can help you get it :)</p>
-<p>Okay, this is just a joke for the sake of being able to use this perfect image. It's my avatar. I did it myself. I like handling pictures and everything that is related to design. And I enjoy coding, too. So I got interested to Frontend Development.</p>
+<p>My name is Stanislau. I'm 31.</p>
 <p>I am interested in Frontend Development because this occupation provides endless possibilities for professional growth, besides there is a huge amount of free high quality resources for self-education and a large community of developers.</p>
 <p>I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.</p>
+<p>Maybe I could be of some help to you.</p>
 
 <h2>What can I do already?</h2>
 
